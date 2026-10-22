@@ -1,0 +1,11 @@
+# Dependências diretas aprovadas pelo usuário (DEC-008 e DEC-009).
+# Versões exatas instaladas ficam em requirements.lock.txt.
+streamlit
+langchain
+langchain-openai
+langchain-anthropic
+langchain-chroma
+chromadb
+python-dotenv
+pymupdf
+langchain-text-splitters

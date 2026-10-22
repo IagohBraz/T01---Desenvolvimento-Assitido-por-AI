@@ -1,0 +1,13 @@
+# Segredos
+.env
+
+# Ambiente virtual
+.venv/
+
+# Banco vetorial local (gerado na onda 2)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/

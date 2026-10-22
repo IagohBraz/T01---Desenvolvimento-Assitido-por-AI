@@ -1,0 +1,57 @@
+DOCUMENTO MESTRE: CONTEXTO INSTITUCIONAL E DE MERCADO - XPERIUN TECNOLOGIA S.A.
+1. Visão Geral da Empresa
+Razão Social: Xperiun Tecnologia S.A.
+
+Nome Fantasia: Xperiun Cloud Solutions
+
+CNPJ: 00.000.000/0001-00
+
+Sede Global: Edifício Tech Tower, Avenida Brigadeiro Faria Lima, 3456, 15º andar, São Paulo - SP, Brasil.
+
+Fundação: 14 de março de 2018.
+
+Número de Colaboradores: 450 funcionários (competência base: dezembro de 2025).
+
+2. Histórico e Fundação
+A Xperiun foi fundada em 2018 por um grupo de ex-engenheiros de telecomunicações com o objetivo de democratizar o acesso à infraestrutura em nuvem de alta performance para empresas da América Latina. Inicialmente focada em hospedagem de dados locais, a empresa pivotou seu modelo de negócios em 2021 para atuar exclusivamente como provedora de Cloud Computing em modelo SaaS (Software as a Service) e IaaS (Infrastructure as a Service), recebendo um aporte Série A de R$ 85 milhões da gestora de Venture Capital "LatAm Tech Ventures".
+
+3. Nicho e Mercado de Atuação
+Setor: Tecnologia da Informação (TI) e Telecomunicações.
+
+Nicho Específico: Infraestrutura de Nuvem Pública e Privada, Gerenciamento de Dados e Soluções SaaS B2B.
+
+Posicionamento de Mercado: A Xperiun se posiciona como a principal alternativa "Tier 2" aos gigantes globais (AWS, Google Cloud e Microsoft Azure) no mercado latino-americano. Seu diferencial competitivo é o faturamento em moeda local (Reais - BRL), eliminando o risco cambial para as empresas brasileiras, aliado a um suporte técnico nativo e humanizado (SLA de resposta em até 15 minutos para incidentes críticos).
+
+Market Share: Atualmente, a Xperiun detém aproximadamente 4,5% do mercado nacional de infraestrutura em nuvem para médias empresas (Mid-market).
+
+4. Portfólio de Produtos (Ecosistema)
+A empresa opera com três frentes principais de monetização, focadas em Receita Recorrente Anual (ARR):
+
+Xperiun Cloud Pro: O produto flagship (carro-chefe) da empresa. Representa 68% do faturamento total. Trata-se de uma solução de nuvem privada para empresas com alta demanda de processamento e compliance rigoroso (como Fintechs e Healthtechs). Custo médio mensal de assinatura: R$ 15.000,00.
+
+Xperiun Lite: Solução de nuvem pública compartilhada e escalável, voltada para startups e e-commerces em fase de crescimento. Representa 22% do faturamento. É focado em autoatendimento e Product-Led Growth (PLG). Custo médio mensal de assinatura: R$ 2.500,00.
+
+Serviços de Implementação e Migração: Serviços profissionais (Professional Services) cobrados como taxa única (Setup Fee) para migrar o banco de dados do cliente de servidores físicos (On-Premise) ou de concorrentes para a infraestrutura Xperiun. Representa 10% da receita.
+
+5. Perfil de Cliente Ideal (ICP) e Público-Alvo
+O foco exclusivo da Xperiun é o mercado B2B (Business-to-Business). A empresa não comercializa produtos para o consumidor final (B2C).
+
+Segmentos Prioritários: Varejo Eletrônico (E-commerce), Instituições Financeiras (Fintechs), Logística e Agrotechs.
+
+Porte de Empresa: Empresas com faturamento anual entre R$ 20 milhões e R$ 500 milhões.
+
+Métricas de Cliente: O cliente médio da Xperiun possui um Lifetime Value (LTV) estimado em R$ 450.000,00 e um tempo médio de retenção de 4,2 anos. A taxa de cancelamento (Churn Rate) anual alvo é mantida abaixo de 5%.
+
+6. Infraestrutura e Fornecedores Técnicos
+A Xperiun não é proprietária do "tijolo e cimento" dos Data Centers. A empresa atua sob o modelo de Colocation.
+
+Data Centers: A infraestrutura física da Xperiun está hospedada em dois grandes provedores de Data Center neutro (Tier III e Tier IV), localizados estrategicamente em Campinas (SP) e Fortaleza (CE) — este último para garantir latência mínima na conexão com os cabos submarinos internacionais.
+
+Gestão de Fornecedores: A Xperiun mantém contratos rigorosos de Nível de Serviço (SLA) com seus fornecedores, exigindo 99,98% de Uptime (disponibilidade) sob pena de multas severas e créditos em fatura para proteger a qualidade do serviço repassada ao cliente final.
+
+7. Cultura Organizacional e Estrutura de Trabalho
+A empresa opera sob um modelo ágil e de alta performance. O organograma é horizontal, dividido em Tribos e Squads multidisciplinares.
+
+Modelo de Trabalho: Desde a reestruturação pós-pandemia (2022), a empresa adotou o regime híbrido definitivo para suas áreas de Engenharia, Vendas e Sucesso do Cliente, mantendo a obrigatoriedade de presença física no escritório da Faria Lima em dias específicos para rituais de alinhamento e cultura.
+
+Propriedade Intelectual: Como empresa de base tecnológica, a inovação interna é rigorosamente protegida. Todos os códigos, integrações e algoritmos desenvolvidos internamente são blindados por Acordos de Não-Competição (NCA) e Acordos de Confidencialidade (NDA) assinados por todos os colaboradores diretos e prestadores de serviço (PJ).

@@ -1,0 +1,94 @@
+﻿[
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\.codex\\agents\\revisor_xperiun.toml",
+        "SHA256":  "FD888F3CE6655A76109198396FA556A9AD8C988BE615CB0DA92182D083DD626A"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\.gitignore",
+        "SHA256":  "2D2C41EE2B87BC9C2CCEB4D506786AFEF6884E20A2D3635D09E0B67BE08514CF"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\Agents.md",
+        "SHA256":  "CB88EF5EB2C25728FBB7AE0D0EE72FF84A7559C7FD955CB7CD4A17A31F8EF893"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\app.py",
+        "SHA256":  "A8D2390EDC0B9FC6D40BB5EDF9964AC73B83BB9D98271663FDDD77B5139C87A7"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\contexto\\contexto.txt",
+        "SHA256":  "C572481413EF6CF2F156DC9C91B372352E1CF64E8B72C3A1B2DC178DE4F0DED5"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\DECISOES.md",
+        "SHA256":  "9C7AFBAA13146A711026B53EFC779DA79F4666E7F8C4B3C80E3D76604D109145"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\docs\\Aditivo Fornecedores Xperiun.pdf",
+        "SHA256":  "2CE2FF8E59F7D9A60234DC583C37D72121E7994319C5524A37F9C4636D46A8BE"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\docs\\Contrato de Trabalho Xperiun.pdf",
+        "SHA256":  "1EBCFBD4F2765C60AC6A7A35283BD1AC87F809EF2AD76516BC70A1F1FEA61A31"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\docs\\Política de Vendas Xperiun.pdf",
+        "SHA256":  "E1396C21EAB090F7CCC61565939C9CC1AD64D09C7BD845A4A7DD3B06337E15F8"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\PRD.md",
+        "SHA256":  "2E72517B77B7EC66C67530D9BB2B81B42C76F775E9B374739FE477C6A5EE03A3"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\README.md",
+        "SHA256":  "9EFE3C705AA5CF11938CC9311DA8F643282B5060FC00F25A772D45629DC95613"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\requirements.lock.txt",
+        "SHA256":  "F516123916B5A56A39C247627388655D7A15C32DEF669DA9719EDE12255ACC25"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\requirements.txt",
+        "SHA256":  "25994BEE9CCA1BC1A5D2A118A0A72EAB4446A95BD5B7DA45F5FDBB70603576B3"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\revisoes\\DIAGNOSTICO_INICIAL.md",
+        "SHA256":  "5214693C2AD6CE0409469332720E9AF43C50686946581CE343DC21ABF3AB3700"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\revisoes\\MODELO_REVISAO.md",
+        "SHA256":  "5876B0C358383228ED3202631EAEFB70121D666502AE1F55882AAA94F6AE9CA9"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\revisoes\\onda-1\\HANDOFF.md",
+        "SHA256":  "A615486BE852E5B3FDD83B97A165FE5F55903C91780C34B3582FAD8A47E59D44"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\Revisor.md",
+        "SHA256":  "BFF9787D0E727C2BA325349F2AA6EA3137B19E78BD1ECFB1272E4F61DC4F0CD2"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\scripts\\check_stack.py",
+        "SHA256":  "D2E4938F3BD2D90E08C66BAE5124FE8F27423E1E0FA500CE1EE87C9694D30019"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\SPEC.md",
+        "SHA256":  "B8F53BA8934A4F8F201B569F94D887D4EC774565F27AE47BDFF669E527B6F6BC"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\src\\xperiun_rag\\__init__.py",
+        "SHA256":  "B55C9C2568308F0AB95E631B9ED9257EE6F9EC1488014A4BF615E8EAC8CE7043"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\src\\xperiun_rag\\config.py",
+        "SHA256":  "341353DE1DB24B86506380F16DA9279ACD0EFF2283354B2ED2AE05D98CCCD988"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\tests\\test_app.py",
+        "SHA256":  "33850753410DB933651627E7A6E940B8A4554E75CC4A41D6E0B45408ADCA65C4"
+    },
+    {
+        "Path":  "E:\\Iago\\Desktop\\ED T01\\tests\\test_config.py",
+        "SHA256":  "D176B61806087402D23CF7610DE378C389177686F64C5F319CB4D27CD5C2688B"
+    }
+]
